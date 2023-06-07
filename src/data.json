@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "logo": "/icons/mcd.png",
+        "brand_name": "McDonalds",
+        "item": "Big Mac Jumbo",
+        "status": "Confirmed",
+        "quantity":"2,897",
+        "price": "9",
+        "placed_on":"06/03/22"
+    },
+    {
+        "id": 2,
+        "logo": "/icons/tesla.png",
+        "brand_name": "Tesla",
+        "item": "Model X",
+        "status": "Confirmed",
+        "quantity":"9,397",
+        "price": "3000",
+        "placed_on":"12/02/22"
+    },
+    {
+        "id": 3,
+        "logo": "/icons/gm.png",
+        "brand_name": "GM",
+        "item": "Alternate Car Parts",
+        "status": "Delivered",
+        "quantity":"02",
+        "price": "49",
+        "placed_on":"04/19/23"
+    },
+    {
+        "id": 4,
+        "logo": "/icons/aarp.png",
+        "brand_name": "AARP",
+        "item": "Health Care Package Adult A1",
+        "status": "Delivered",
+        "quantity":"89",
+        "price": "299",
+        "placed_on":"01/02/23"
+    },
+    {
+        "id": 5,
+        "logo": "/icons/disney.png",
+        "brand_name": "Disney",
+        "item": "Renewal Subscription",
+        "status": "Refund",
+        "quantity":"276",
+        "price": "23",
+        "placed_on":"09/04/23"
+    },
+    {
+        "id": 6,
+        "logo": "/icons/prime.png",
+        "brand_name": "Prime Therapeutics",
+        "item": "Natural oil",
+        "status": "Refund",
+        "quantity":"1,098",
+        "price": "135",
+        "placed_on":"06/03/22"
+    },
+    {
+        "id": 7,
+        "logo": "/icons/match.png",
+        "brand_name": "Match.com",
+        "item": "Renewal Subscription",
+        "status": "Pending",
+        "quantity":"4,298",
+        "price": "48",
+        "placed_on":"12/02/22"
+    },
+    {
+        "id": 8,
+        "logo": "/icons/chevy.png",
+        "brand_name": "Chevy",
+        "item": "FX234A",
+        "status": "Pending",
+        "quantity":"1,928",
+        "price": "90",
+        "placed_on":"04/19/23"
+    },
+    {
+        "id": 9,
+        "logo": "/icons/gm2.png",
+        "brand_name": "GM",
+        "item": "Car Parts AJZ89B",
+        "status": "Confirmed",
+        "quantity":"640",
+        "price": "167",
+        "placed_on":"01/02/23"
+    }
+]
